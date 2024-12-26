@@ -9,8 +9,8 @@
 
 ### 📂 Files and Folders
 
-[**The server that i use in my videos** *(NOT: Sunucu 1.16.5 Içindir.)*](/tree/master/Minecraft/Server/Software Değişimi)
+[**The server that i use in my videos** *(NOTE: Server is for 1.16.5.)*]("/Minecraft/Server/Software Değişimi")
 
-[**The plugins that i use in my videos** *(NOT: Pluginler 1.16.5 Içindir.)*](/tree/master/Minecraft/Plugins)
+[**The plugins that i use in my videos** *(NOTE: Plugins is for 1.16.5.)*](/Minecraft/Plugins)
 
-[**Paper Anti X-Ray** *(NOT: Sadece Paper'da çalışır.)*] (/tree/master/Minecraft/Anti X-Ray.yaml)
+[**Paper Anti X-Ray** *(NOT: Only works with Paper.)*]("/Minecraft/Anti X-Ray.yaml")
