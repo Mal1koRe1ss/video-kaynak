@@ -9,8 +9,8 @@
 
 ### 📂 Files and Folders
 
-[**The server that i use in my videos** *(NOTE: Server is for 1.16.5.)*]("/Minecraft/Server/Software Değişimi")
+[**The server that I use in my videos** *(NOTE: Server is for 1.16.5.)*](/Minecraft/Server/Software%20Değişimi)
 
 [**The plugins that i use in my videos** *(NOTE: Plugins is for 1.16.5.)*](/Minecraft/Plugins)
 
-[**Paper Anti X-Ray** *(NOT: Only works with Paper.)*]("/Minecraft/Anti X-Ray.yaml")
+[**Paper Anti X-Ray** *(NOT: Only works with Paper.)*](/Minecraft/Anti%20X-Ray.yaml")
