@@ -3,8 +3,11 @@
 ### 🌐 Links
 
 [**MSSL** **(** *Minecraft Server Software List* **)**](https://github.com/LeStegii/server-software)
+
 [**PaperMC**](https://papermc.io/)
+
 [**Bukkit**](https://dev.bukkit.org/)
+
 [**SpigotMC**](https://www.spigotmc.org/)
 
 ### 📂 Files and Folders
