@@ -1,2 +1,4 @@
-# video-kaynak
-I share the materials i use in videos. Videoda kullandığım materyalleri burada veriyorum
+# Please Select a Language / Lütfen bir dil seçiniz
+
+[Turkish](TR.md)
+[English](EN.md)
