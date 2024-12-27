@@ -1,4 +1,4 @@
-# 📜 I give the assets i use in my videos.
+# 📜 In this Repo i give the assets i use in my videos.
 
 ### 🌐 Links
 
